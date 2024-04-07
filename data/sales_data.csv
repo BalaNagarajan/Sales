@@ -1,0 +1,26 @@
+﻿SHOWROOM_ID,CITY,SALES_ID,MAKE,MODEL,TYPE,PRICE,FINANCE,ACCESSORIES
+100,Detroid,12,HONDA,Accord,Sedan,21,Y,Y
+100,Detroid,13,HONDA,Accord,Sedan,22,N,N
+100,Detroid,15,HONDA,Accord,Sedan,21,Y,Y
+100,Detroid,76,HONDA,Civic,Sedan,19,N,N
+100,Detroid,22,HONDA,Civic,Sedan,18,Y,Y
+100,Detroid,36,HONDA,Civic,Sedan,20,N,N
+100,Detroid,87,HONDA,CR-V,SUV,28,Y,Y
+100,Detroid,90,HONDA,CR-V,SUV,27,Y,N
+100,Detroid,13,HONDA,CR-V,SUV,29,N,Y
+100,Detroid,32,HONDA,Accord,Sedan,18,Y,N
+100,Detroid,78,HONDA,Accord,Sedan,19,N,Y
+200,Lansing,89,HONDA,Odyssey,Van,35,Y,N
+200,Lansing,109,HONDA,Odyssey,Van,35,N,Y
+200,Lansing,31,HONDA,Civic,Sedan,20,Y,N
+200,Lansing,76,HONDA,Civic,Sedan,22,N,Y
+300,Ann Arbor,909,HONDA,CR-V,SUV,29,Y,N
+300,Ann Arbor,112,HONDA,CR-V,SUV,36,N,Y
+300,Ann Arbor,122,HONDA,Accord,Sedan,23,Y,N
+300,Ann Arbor,34,HONDA,Accord,Sedan,23,N,Y
+300,Ann Arbor,62,HONDA,Accord,Sedan,25,Y,N
+300,Ann Arbor,81,HONDA,CR-V,SUV,35,N,Y
+500,Dearborn,100,HONDA,Civic,Sedan,21,Y,N
+500,Dearborn,134,HONDA,Accord,Sedan,21,N,Y
+500,Dearborn,112,HONDA,CR-V,SUV,30,Y,N
+500,Dearborn,908,HONDA,CR-V,SUV,31,N,Y
